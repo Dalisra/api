@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.dalisra
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, java, java-application, junit, lombok, management, maven, mockito, mongo-reactive, netty-server, openapi, reactor, readme, security, security-annotations, security-oauth2, security-session, shade, slf4j-simple, testcontainers, views-velocity, yaml]
